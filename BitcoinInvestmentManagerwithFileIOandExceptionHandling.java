@@ -3,7 +3,7 @@ import java.net.Socket;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class BitcoinInvestmentManagerwithFileIOandExceptionHandling {
+public class BitcoinAPI {
     public static void main(String[] args) throws Driver.PersonNotFoundException, IOException
     {
         float currentPrice;
